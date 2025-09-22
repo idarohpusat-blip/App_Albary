@@ -1,33 +1,40 @@
-[
-  {
-    "id": 2,
-    "name": "minum",
-    "description": "hasan",
-    "category": "Web",
-    "url": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_incoming&w=740&q=80",
-    "status": "Active"
-  },
-  {
-    "id": 3,
-    "description": "hasan",
-    "category": "Web",
-    "url": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_incoming&w=740&q=80",
-    "status": "Active"
-  },
-  {
-    "id": 3,
-    "name": "minum",
-    "description": "hasan",
-    "category": "Web",
-    "url": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_incoming&w=740&q=80",
-    "status": "Active"
-  },
-  {
-    "id": 3,
-    "name": "minum",
-    "description": "hasan",
-    "category": "Web",
-    "url": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_incoming&w=740&q=80",
-    "status": "Active"
-  }
-]
+{
+            "services": [
+                {
+                    "id": "svc_01",
+                    "name": "Sertifikat Badal Umroh",
+                    "category": "Pelayanan",
+                    "price": 25000,
+                    "active": true
+                },
+                {
+                    "id": "svc_02",
+                    "name": "Sertifikat Umroh",
+                    "category": "Pelayanan",
+                    "price": 35000,
+                    "active": true
+                }
+            ],
+            "contacts": [
+                {
+                    "name": "Jamaluddin",
+                    "email": "idarohpusat@gmail.com",
+                    "phone": "+6281342296661"
+                },
+                {
+                    "name": "Ahmad",
+                    "email": "ahmad@example.com",
+                    "phone": "+628123456789"
+                }
+            ],
+            "socialLinks": [
+                {
+                    "platform": "Facebook",
+                    "url": "https://web.facebook.com/albaryharamain/"
+                },
+                {
+                    "platform": "Instagram",
+                    "url": "https://www.instagram.com/albary313/"
+                }
+            ]
+        }
