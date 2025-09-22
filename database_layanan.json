@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "beras",
-    "description": "masak",
-    "category": "Web",
-    "url": "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_incoming&w=740&q=80",
-    "status": "Active"
-  },
-  {
     "id": 2,
     "name": "minum",
     "description": "hasan",
