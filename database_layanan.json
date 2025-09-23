@@ -1,27 +1,6 @@
 {
   "services": [
-    {
-      "id": "svc_01",
-      "name": "Sertifikat Badal Umroh",
-      "category": "Pelayanan",
-      "price": 25000,
-      "active": true
-    },
-    {
-      "id": "svc_02",
-      "name": "Sertifikat Umroh",
-      "category": "Pelayanan",
-      "price": 35000,
-      "active": true
-    },
-    {
-      "id": null,
-      "name": "jamal",
-      "category": "Web",
-      "description": "hasan",
-      "url": "http://makan/",
-      "status": "Active"
-    },
+
     {
       "id": null,
       "name": "jamal",
