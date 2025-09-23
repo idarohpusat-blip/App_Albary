@@ -1,40 +1,48 @@
 {
-            "services": [
-                {
-                    "id": "svc_01",
-                    "name": "Sertifikat Badal Umroh",
-                    "category": "Pelayanan",
-                    "price": 25000,
-                    "active": true
-                },
-                {
-                    "id": "svc_02",
-                    "name": "Sertifikat Umroh",
-                    "category": "Pelayanan",
-                    "price": 35000,
-                    "active": true
-                }
-            ],
-            "contacts": [
-                {
-                    "name": "Jamaluddin",
-                    "email": "idarohpusat@gmail.com",
-                    "phone": "+6281342296661"
-                },
-                {
-                    "name": "Ahmad",
-                    "email": "ahmad@example.com",
-                    "phone": "+628123456789"
-                }
-            ],
-            "socialLinks": [
-                {
-                    "platform": "Facebook",
-                    "url": "https://web.facebook.com/albaryharamain/"
-                },
-                {
-                    "platform": "Instagram",
-                    "url": "https://www.instagram.com/albary313/"
-                }
-            ]
-        }
+  "services": [
+    {
+      "id": "svc_01",
+      "name": "Sertifikat Badal Umroh",
+      "category": "Pelayanan",
+      "price": 25000,
+      "active": true
+    },
+    {
+      "id": "svc_02",
+      "name": "Sertifikat Umroh",
+      "category": "Pelayanan",
+      "price": 35000,
+      "active": true
+    },
+    {
+      "id": null,
+      "name": "jamal",
+      "category": "Web",
+      "description": "hasan",
+      "url": "http://makan/",
+      "status": "Active"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Jamaluddin",
+      "email": "idarohpusat@gmail.com",
+      "phone": "+6281342296661"
+    },
+    {
+      "name": "Ahmad",
+      "email": "ahmad@example.com",
+      "phone": "+628123456789"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Facebook",
+      "url": "https://web.facebook.com/albaryharamain/"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/albary313/"
+    }
+  ]
+}
