@@ -1,35 +1,13 @@
 {
-  "services": [
-
+  "layanan": [
     {
-      "id": null,
-      "name": "jamal",
+      "id": "layanan-01",
+      "name": "Jamal",
       "category": "Web",
-      "description": "hasan",
+      "description": "Hasan",
       "url": "http://makan/",
       "status": "Active"
-    }
-  ],
-  "contacts": [
-    {
-      "name": "Jamaluddin",
-      "email": "idarohpusat@gmail.com",
-      "phone": "+6281342296661"
     },
-    {
-      "name": "Ahmad",
-      "email": "ahmad@example.com",
-      "phone": "+628123456789"
-    }
-  ],
-  "socialLinks": [
-    {
-      "platform": "Facebook",
-      "url": "https://web.facebook.com/albaryharamain/"
-    },
-    {
-      "platform": "Instagram",
-      "url": "https://www.instagram.com/albary313/"
-    }
+    // More services...
   ]
 }
